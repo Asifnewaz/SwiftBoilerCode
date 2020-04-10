@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DatePickerDialog (3.0)
+  - EVReflection (5.10.1):
+    - EVReflection/Core (= 5.10.1)
+  - EVReflection/Alamofire (5.10.1):
+    - Alamofire
+    - EVReflection/Core
+  - EVReflection/Core (5.10.1)
+  - Hex (6.1.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MBProgressHUD (1.2.0)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DatePickerDialog
+  - EVReflection
+  - EVReflection/Alamofire
+  - Hex
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DatePickerDialog
+    - EVReflection
+    - Hex
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  EVReflection: 8124de482178d34ccd56473e16cd95990f9a1113
+  Hex: 2f67dd0cbb178cb24992e7529b025b8d16ff0bdc
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: 1a562770f15831fcd5fa4a51a3225cd1c0c05fb7
+
+COCOAPODS: 1.8.4
